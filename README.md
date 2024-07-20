@@ -19,12 +19,9 @@ Welcome to my GitHub profile! I'm a computer science student and as I pursue my 
 ](https://skillicons.dev)
 
 ### Clouds & Providers
-[![Clouds/Providers](https://skillicons.dev/icons?i=cloudflare,gcp,vercel)
+[![Clouds/Providers](https://skillicons.dev/icons?i=azure,cloudflare,gcp,vercel)
 ](https://skillicons.dev)
 
-### Little experience in
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,tensorflow,threejs)](https://skillicons.dev)
-
 ### I want to learn / Currently in learning
-[![Learning](https://skillicons.dev/icons?i=astro,aws,docker,go,graphql,kotlin,lua,raspberrypi,rust)
+[![In learning](https://skillicons.dev/icons?i=docker,graphql,kotlin,raspberrypi,rust)
 ](https://skillicons.dev)
